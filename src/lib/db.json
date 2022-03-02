@@ -1,0 +1,30 @@
+{
+  "programs": [
+    {
+      "title": "アンガールズのジャンピン",
+      "mail": "ung@allnightnippon.com",
+      "corners": [
+        {
+          "title": "令和人間図鑑",
+          "subject": "人間"
+        },
+        {
+          "title": "女子でも送れる！ゆるふわ大喜利",
+          "subject": "ゆるふわ"
+        },
+        {
+          "title": "有楽町リベンジャーズ",
+          "subject": "リベンジャーズ"
+        },
+        {
+          "title": "おい！タナ",
+          "subject": "タナ！"
+        },
+        {
+          "title": "お～い！山根さん",
+          "subject": "山根さん！"
+        }
+      ]
+    }
+  ]
+}
