@@ -31,6 +31,7 @@
   },
   "type": "module",
   "dependencies": {
-    "lowdb": "^3.0.0"
+    "lowdb": "^3.0.0",
+    "simpledotcss": "^2.0.5"
   }
 }
